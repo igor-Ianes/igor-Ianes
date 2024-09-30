@@ -77,7 +77,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-ic-a8522920a/)](https://www.linkedin.com/in/igor-ic-a8522920a/)
+[![Linkedin](https://img.shields.io/badge/-igor-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-c-i-a8522920a/)](https://www.linkedin.com/in/igor-c-i-a8522920a/)
 [![Gmail Badge](https://img.shields.io/badge/-igor.ryam@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
 [![GitHub](https://img.shields.io/github/followers/igor-Ianes?label=follow&style=social)](https://github.com/igor-Ianes)
 
