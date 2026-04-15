@@ -37,6 +37,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+<img src="https://komarev.com/ghpvc/?username=igor-Ianes&label=Profile%20views&color=0e75b6&style=flat" alt="igor-Ianes" /> 
 
 
 
